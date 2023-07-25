@@ -1,1 +1,1 @@
-const yourArray = ["string", 1, true, false,6];
+const yourArray = ["string", 1, true, false, 6];

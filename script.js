@@ -1,1 +1,1 @@
-const yourArray = ["string", 1, true, false, 6];
+let yourArray = ["string", 1, false, true, 23]
